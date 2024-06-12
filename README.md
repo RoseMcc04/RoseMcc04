@@ -6,6 +6,9 @@
 - 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: I used to want to be a human geographer and now want to be a Computer Scientist. 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---
 RoseMcc04/RoseMcc04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
