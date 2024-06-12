@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java, Python, and various software.
 - 💞️ I’m looking to collaborate on nothing for now, but I may need contributors on my generics and collections teaching tool project. 
 - 📫 How to reach me --> Email: sammack04@gmail.com
-- 😄 Pronouns: she/her/hers ONLY
+- 😄 Pronouns: she/her/they/them
 - ⚡ Fun fact: I used to want to be a human geographer and now want to be a Computer Scientist. 
 
 <!---
