@@ -9,6 +9,17 @@
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 12 June 2024 - To: 01 September 2024
+
+Total Time: 19 mins
+
+Java       17 mins         >>>>>>>>>>>>>>>>>>>>>>---   88.91 %
+Text       2 mins          >>>----------------------   10.92 %
+Markdown   0 secs          -------------------------   00.17 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---
