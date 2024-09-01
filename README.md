@@ -8,19 +8,7 @@
 - 😄 Pronouns: she/her/hers ONLY
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
-<!--START_SECTION:waka-->
-
-```rust
-From: 12 June 2024 - To: 01 September 2024
-
-Total Time: 19 mins
-
-Java       17 mins         ██████████████████████▒░░   88.91 %
-Text       2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-```
-
-<!--END_SECTION:waka-->
+![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=ambient_gradient)
 
 <!---
 RoseMcc04/RoseMcc04 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
