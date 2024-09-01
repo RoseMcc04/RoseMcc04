@@ -8,9 +8,6 @@
 - 😄 Pronouns: she/her/hers ONLY
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
-## Languages
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
-
 ## Github Stats
 ![Rose's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=ambient_gradient)
 
