@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/>
 
 <!---
 RoseMcc04/RoseMcc04 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
