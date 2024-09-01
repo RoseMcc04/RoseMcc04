@@ -6,7 +6,10 @@
 - 😄 Pronouns: she/her/hers ONLY
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
+- Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosemcc04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+- All-Time Statistics
+<img src="https://myreadme.vercel.app/api/embed/rosemcc04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
 RoseMcc04/RoseMcc04 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
