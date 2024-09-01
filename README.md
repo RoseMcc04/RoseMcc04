@@ -10,7 +10,7 @@
 
 ![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=ambient_gradient)
 
-[![Rose's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mccormacksa)](https://github.com/madushadhanushka/github-readme)
+[![Rose's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mccormacksa)]
 
 <!---
 RoseMcc04/RoseMcc04 is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
