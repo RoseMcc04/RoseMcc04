@@ -1,3 +1,5 @@
+# Profile Bio
+
 - 👋 Hi, I’m @RoseMcc04
 👀 I’m interested in algorithms, computational complexity theory, machine learning, and different teaching techniques for general computer science. 
 - 🌱 I’m currently learning Java, Python, and various software.
@@ -6,9 +8,9 @@
 - 😄 Pronouns: she/her/hers ONLY
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
-- Top Languages
+## Top Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rosemcc04&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-- All-Time Statistics
+## All-Time Statistics
 <img src="https://myreadme.vercel.app/api/embed/rosemcc04?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <!---
