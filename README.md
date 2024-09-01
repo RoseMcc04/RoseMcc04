@@ -8,9 +8,6 @@
 - 😄 Pronouns: she/her/hers ONLY
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
-## Github Stats
-![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=ambient_gradient)
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
