@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I used to want to be a Data Analyst or Statistician and now aspire to be a Computer Scientist. 
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=gotham" alt="github stats" width="45%" align="left"/> <be>
+[![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemcc04)](https://github.com/rosemcc04/github-readme-stats)
 
 
 <!---
