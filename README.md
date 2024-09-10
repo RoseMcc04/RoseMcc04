@@ -7,7 +7,7 @@
     - [Software Engineering💻](https://github.com/RoseMcc04/CS-3667-RoseMcc)
     - [Programming Software Solutions📊](https://github.com/RoseMcc04/CIS-3680-RoseMcc)
 - 📫 Reach me at: **sammack04@gmail.com**.
-- 😄 Pronouns: **she/her/hers ONLY**.
+- 😄 Pronouns: **she/her/hers**.
 - ⚡ Fun fact: I taught myself Git early, but did not implement branching until two months after. 
 
 ![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=ambient_gradient)
