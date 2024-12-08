@@ -10,7 +10,3 @@
 - 📫 Reach me at: **sammack04@gmail.com**.
 - 🏳️‍⚧️ Pronouns: **she/her/hers**.
 - ⚡ Fun fact: If you look at my birthday, the digits 08 for month, 02 for day, and 04 for the year, you can say that 8 / 2 = 4. Also, my initials spell RAM (Random Access Memory).
-
-![Rose's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosemcc04&show_icons=true&theme=ambient_gradient)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=rosemcc04&show_icons=true&locale=en&layout=compact&theme=ambient_gradient)
