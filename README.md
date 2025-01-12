@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **@RoseMcc04**.
 
-- 👀 I’m deeply interested in **Computer Systems**, **DevOps**, **Cybersecurity**, and **Software Architecture**. 
+- 👀 I’m deeply interested in **Computer Systems**, **DevOps**, **Cybersecurity**, and **Computer Networking**. 
 - 🌱 Currently, I’m enhancing my skills in **C++**, **C**, **Java**, and **Python**. I also am working on understanding software libraries in and around these languages. 
 - 💞️ My current passion project is **DataStructuresCPP**, which showcases my interest in systems programming along with algorithmic thinking.
 - 🤓 Current School-Related Repositories:
