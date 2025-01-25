@@ -6,8 +6,9 @@
 - 🤓 Current School-Related Repositorie(s):
     - [Database📊](https://github.com/RoseMcc04/CS-3430-RoseMcC)
     - [Data Structures and Algorithms💻](https://github.com/RoseMcc04/CS-3460-RoseMcC)
+    - [Networking and IT Infrastructures👩‍💻](https://github.com/RoseMcc04/CIS-3580-RoseMcC)
 - Current Personal Repositorie(s):
-    - [DataStructuresC👨🏻‍💻](https://github.com/RoseMcc04/DataStructuresC)
+    - [DataStructuresC⚙️](https://github.com/RoseMcc04/DataStructuresC)
 - 📫 Reach me at: **sammack04@gmail.com**.
 - 🏳️‍⚧️ Pronouns: **she/her/hers**.
 - ⚡ Fun fact: If you look at my birthday, the digits 08 for month, 02 for day, and 04 for the year, you can say that 8 / 2 = 4. Also, my initials spell RAM (Random Access Memory).
